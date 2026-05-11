@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\sundu\onedrive\desktop\homwork\project_mid\main.cpp
+	<iostream>
+
+1773486597 source:c:\users\sundu\onedrive\desktop\homwork\project_mid\palindromes.c
+	<iostream>
+	<stack>
+	<string>
+
+1773486843 source:c:\users\sundu\onedrive\desktop\homwork\project_mid\palindromes.cpp
+	<iostream>
+	<stack>
+	<string>
+
